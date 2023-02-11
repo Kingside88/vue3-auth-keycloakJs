@@ -1,13 +1,14 @@
 # front-end
-This Project ist ready to go.
-Interesting files:
-** src\security\KeycloakService.ts ** 
+This Project ist ready to go.<br />
+<br />
+Interesting files:<br />
+**src\security\KeycloakService.ts**<br /> 
 Keycloak Wrapper Service for KeycloakJs
 
-** src\components\KeycloakDemo.vue ** 
+**src\components\KeycloakDemo.vue**<br /> 
 Demo Component just for testing
 
-** public\keycloak.json ** 
+**public\keycloak.json** <br />
 Keycloak Webserver Credentials. You can get it from keycloak itself: 
 Clients -> [Your Client] -> Top right corner "Action"-Dropdown -> "Download adapter config"
 
